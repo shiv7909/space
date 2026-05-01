@@ -1,0 +1,10 @@
+Analyzing 2 items...                                            
+
+warning - Unused import: '../../../core/theme/app_theme.dart' - lib\features\spaces\screens\brand_challenge_screen.dart:7:8 - unused_import
+warning - The declaration '_text3' isn't referenced - lib\features\spaces\screens\brand_challenge_screen.dart:35:13 - unused_element
+warning - The declaration '_border' isn't referenced - lib\features\spaces\screens\brand_challenge_screen.dart:39:13 - unused_element
+warning - The value of the field '_stats' isn't used - lib\features\spaces\screens\brand_challenge_screen.dart:45:31 - unused_field
+warning - The value of the field '_milestones' isn't used - lib\features\spaces\screens\brand_challenge_screen.dart:49:33 - unused_field
+warning - The value of the field '_earnedSet' isn't used - lib\features\spaces\screens\brand_challenge_screen.dart:50:15 - unused_field
+warning - The value of the field '_selectedSnap' isn't used - lib\features\spaces\screens\brand_challenge_screen.dart:55:8 - unused_field
+

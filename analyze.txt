@@ -1,0 +1,36 @@
+Analyzing challenge_result_card.dart...
+
+  error - challenge_result_card.dart:254:68 - Methods can't be invoked in constant expressions. - const_eval_method_invocation
+  error - challenge_result_card.dart:258:51 - Methods can't be invoked in constant expressions. - const_eval_method_invocation
+  error - challenge_result_card.dart:275:58 - Methods can't be invoked in constant expressions. - const_eval_method_invocation
+  error - challenge_result_card.dart:282:89 - Methods can't be invoked in constant expressions. - const_eval_method_invocation
+  error - challenge_result_card.dart:283:67 - Methods can't be invoked in constant expressions. - const_eval_method_invocation
+  error - challenge_result_card.dart:295:61 - Methods can't be invoked in constant expressions. - const_eval_method_invocation
+  error - challenge_result_card.dart:305:48 - Methods can't be invoked in constant expressions. - const_eval_method_invocation
+  error - challenge_result_card.dart:350:48 - Methods can't be invoked in constant expressions. - const_eval_method_invocation
+  error - challenge_result_card.dart:360:50 - Methods can't be invoked in constant expressions. - const_eval_method_invocation
+  error - challenge_result_card.dart:368:48 - Methods can't be invoked in constant expressions. - const_eval_method_invocation
+  error - challenge_result_card.dart:452:57 - Methods can't be invoked in constant expressions. - const_eval_method_invocation
+  error - challenge_result_card.dart:453:35 - Methods can't be invoked in constant expressions. - const_eval_method_invocation
+  error - challenge_result_card.dart:599:60 - Methods can't be invoked in constant expressions. - const_eval_method_invocation
+  error - challenge_result_card.dart:603:43 - Methods can't be invoked in constant expressions. - const_eval_method_invocation
+  error - challenge_result_card.dart:620:50 - Methods can't be invoked in constant expressions. - const_eval_method_invocation
+  error - challenge_result_card.dart:635:80 - Methods can't be invoked in constant expressions. - const_eval_method_invocation
+  error - challenge_result_card.dart:636:59 - Methods can't be invoked in constant expressions. - const_eval_method_invocation
+  error - challenge_result_card.dart:648:53 - Methods can't be invoked in constant expressions. - const_eval_method_invocation
+  error - challenge_result_card.dart:658:40 - Methods can't be invoked in constant expressions. - const_eval_method_invocation
+  error - challenge_result_card.dart:699:39 - Methods can't be invoked in constant expressions. - const_eval_method_invocation
+  error - challenge_result_card.dart:706:39 - Methods can't be invoked in constant expressions. - const_eval_method_invocation
+  error - challenge_result_card.dart:782:54 - Undefined name 'context'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - challenge_result_card.dart:782:79 - Undefined name 'context'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - challenge_result_card.dart:785:51 - Undefined name 'context'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - challenge_result_card.dart:790:27 - Undefined name 'context'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - challenge_result_card.dart:820:34 - Methods can't be invoked in constant expressions. - const_eval_method_invocation
+  error - challenge_result_card.dart:830:34 - Methods can't be invoked in constant expressions. - const_eval_method_invocation
+  error - challenge_result_card.dart:876:36 - Methods can't be invoked in constant expressions. - const_eval_method_invocation
+  error - challenge_result_card.dart:886:36 - Methods can't be invoked in constant expressions. - const_eval_method_invocation
+  error - challenge_result_card.dart:945:32 - Methods can't be invoked in constant expressions. - const_eval_method_invocation
+  error - challenge_result_card.dart:1006:32 - Methods can't be invoked in constant expressions. - const_eval_method_invocation
+  error - challenge_result_card.dart:1170:32 - Methods can't be invoked in constant expressions. - const_eval_method_invocation
+
+32 issues found.

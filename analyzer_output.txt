@@ -1,0 +1,250 @@
+Analyzing lib...
+
+warning - Features\habits\cubit\habits_state.dart:1:8 - Unused import: 'package:flutter_bloc/flutter_bloc.dart'. Try removing the import directive. - unused_import
+warning - Features\habits\habit_detail_view.dart:27:26 - The value of the field '_pulseAnimation' isn't used. Try removing the field, or using it. - unused_field
+warning - Features\habits\habit_detail_view.dart:621:18 - The declaration '_getCategoryStyle' isn't referenced. Try removing the declaration of '_getCategoryStyle'. - unused_element
+warning - Features\home\home_screen.dart:1052:34 - A value for optional parameter 'key' isn't ever given. Try removing the unused parameter. - unused_element_parameter
+warning - Features\home\home_screen.dart:1182:30 - A value for optional parameter 'key' isn't ever given. Try removing the unused parameter. - unused_element_parameter
+warning - Features\profile\cubit\profile_cubit.dart:3:8 - Unused import: '../../../models/profile_model.dart'. Try removing the import directive. - unused_import
+warning - Features\solo\widgets\today_progress_widget.dart:75:15 - The value of the local variable 'percentage' isn't used. Try removing the variable or using it. - unused_local_variable
+warning - Features\spaces\widgets\join_space_popup.dart:8:8 - Unused import: 'package:url_launcher/url_launcher.dart'. Try removing the import directive. - unused_import
+warning - scripts\convert_svg_to_png.dart:1:8 - Unused import: 'dart:io'. Try removing the import directive. - unused_import
+warning - scripts\convert_svg_to_png.dart:2:8 - Unused import: 'package:flutter_svg/flutter_svg.dart'. Try removing the import directive. - unused_import
+warning - scripts\convert_svg_to_png.dart:4:8 - Unused import: 'dart:ui'. Try removing the import directive. - unused_import
+warning - services\profile_service.dart:4:8 - Unused import: 'package:image/image.dart'. Try removing the import directive. - unused_import
+   info - Features\auth\cubit\auth_cubit.dart:17:9 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - Features\auth\cubit\auth_cubit.dart:21:11 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - Features\auth\cubit\auth_cubit.dart:43:11 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - Features\auth\cubit\auth_cubit.dart:48:9 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - Features\auth\cubit\auth_cubit.dart:59:9 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - Features\auth\cubit\auth_cubit.dart:63:9 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - Features\auth\cubit\auth_cubit.dart:67:9 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - Features\auth\cubit\auth_cubit.dart:89:7 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - Features\auth\cubit\auth_cubit.dart:114:9 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - Features\auth\cubit\auth_cubit.dart:123:7 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - Features\auth\cubit\auth_cubit.dart:125:7 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - Features\auth\cubit\auth_cubit.dart:128:7 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - Features\auth\cubit\auth_cubit.dart:130:7 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - Features\auth\cubit\auth_cubit.dart:132:7 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - Features\auth\cubit\auth_cubit.dart:149:7 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - Features\couple\couple_space_view.dart:108:43 - Statements in an if should be enclosed in a block. Try wrapping the statement in a block. - curly_braces_in_flow_control_structures
+   info - Features\couple\couple_space_view.dart:321:23 - Statements in an if should be enclosed in a block. Try wrapping the statement in a block. - curly_braces_in_flow_control_structures
+   info - Features\couple\couple_space_view.dart:390:21 - Statements in an if should be enclosed in a block. Try wrapping the statement in a block. - curly_braces_in_flow_control_structures
+   info - Features\couple\cubit\spaces_cubit.dart:62:9 - Statements in an if should be enclosed in a block. Try wrapping the statement in a block. - curly_braces_in_flow_control_structures
+   info - Features\couple\cubit\spaces_cubit.dart:75:9 - Statements in an if should be enclosed in a block. Try wrapping the statement in a block. - curly_braces_in_flow_control_structures
+   info - Features\couple\cubit\spaces_cubit.dart:80:16 - Unnecessary override. Try adding behavior in the overriding member or removing the override. - unnecessary_overrides
+   info - Features\group\group_space_view.dart:147:43 - Statements in an if should be enclosed in a block. Try wrapping the statement in a block. - curly_braces_in_flow_control_structures
+   info - Features\group\group_space_view.dart:261:55 - Statements in an if should be enclosed in a block. Try wrapping the statement in a block. - curly_braces_in_flow_control_structures
+   info - Features\habits\habit_detail_view.dart:367:7 - Statements in an if should be enclosed in a block. Try wrapping the statement in a block. - curly_braces_in_flow_control_structures
+   info - Features\habits\habit_detail_view.dart:369:7 - Statements in an if should be enclosed in a block. Try wrapping the statement in a block. - curly_braces_in_flow_control_structures
+   info - Features\habits\habit_detail_view.dart:507:11 - Use a 'SizedBox' to add whitespace to a layout. Try using a 'SizedBox' rather than a 'Container'. - sized_box_for_whitespace
+   info - Features\habits\habit_detail_view.dart:1150:42 - Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check. Guard a 'State.context' use with a 'mounted' check on the State, and other BuildContext use with a 'mounted' check on the BuildContext. - use_build_context_synchronously
+   info - Features\habits\habit_detail_view.dart:1164:35 - Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check. Guard a 'State.context' use with a 'mounted' check on the State, and other BuildContext use with a 'mounted' check on the BuildContext. - use_build_context_synchronously
+   info - Features\habits\habit_detail_view.dart:1714:43 - Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check. Guard a 'State.context' use with a 'mounted' check on the State, and other BuildContext use with a 'mounted' check on the BuildContext. - use_build_context_synchronously
+   info - Features\habits\habit_detail_view.dart:1733:55 - Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check. Guard a 'State.context' use with a 'mounted' check on the State, and other BuildContext use with a 'mounted' check on the BuildContext. - use_build_context_synchronously
+   info - Features\habits\widgets\add_habit_sheet.dart:10:8 - The import of '../../../screens/cinematic_payload.dart' is unnecessary because all of the used elements are also provided by the import of '../../../screens/habit_success_cinematic_screen.dart'. Try removing the import directive. - unnecessary_import
+   info - Features\habits\widgets\add_habit_sheet.dart:29:13 - The private field _scheduledDays could be 'final'. Try making the field 'final'. - prefer_final_fields
+   info - Features\home\home_screen.dart:224:11 - Use a 'SizedBox' to add whitespace to a layout. Try using a 'SizedBox' rather than a 'Container'. - sized_box_for_whitespace
+   info - Features\home\home_screen.dart:628:11 - Use a 'SizedBox' to add whitespace to a layout. Try using a 'SizedBox' rather than a 'Container'. - sized_box_for_whitespace
+   info - Features\home\home_screen.dart:681:9 - Parameter 'key' could be a super parameter. Trying converting 'key' to a super parameter. - use_super_parameters
+   info - Features\onboarding\cubit\onboarding_cubit.dart:32:7 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - Features\onboarding\cubit\onboarding_cubit.dart:34:7 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - Features\onboarding\cubit\onboarding_cubit.dart:36:9 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - Features\onboarding\cubit\onboarding_cubit.dart:49:7 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - Features\onboarding\cubit\onboarding_cubit.dart:71:9 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - Features\profile\profile_popup.dart:2:8 - The import of 'package:flutter/services.dart' is unnecessary because all of the used elements are also provided by the import of 'package:flutter/material.dart'. Try removing the import directive. - unnecessary_import
+   info - Features\profile\profile_popup.dart:11:8 - The imported package 'path_provider' isn't a dependency of the importing package. Try adding a dependency for 'path_provider' in the 'pubspec.yaml' file. - depend_on_referenced_packages
+   info - Features\profile\profile_popup.dart:12:8 - The imported package 'provider' isn't a dependency of the importing package. Try adding a dependency for 'provider' in the 'pubspec.yaml' file. - depend_on_referenced_packages
+   info - Features\profile\profile_popup.dart:106:30 - Don't use 'BuildContext's across async gaps. Try rewriting the code to not use the 'BuildContext', or guard the use with a 'mounted' check. - use_build_context_synchronously
+   info - Features\profile\profile_popup.dart:695:49 - Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check. Guard a 'State.context' use with a 'mounted' check on the State, and other BuildContext use with a 'mounted' check on the BuildContext. - use_build_context_synchronously
+   info - Features\profile\profile_popup.dart:698:44 - Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check. Guard a 'State.context' use with a 'mounted' check on the State, and other BuildContext use with a 'mounted' check on the BuildContext. - use_build_context_synchronously
+   info - Features\qr\qr_scanner_view.dart:57:47 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - Features\qr\qr_scanner_view.dart:77:47 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - Features\qr\qr_scanner_view.dart:187:43 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - Features\qr\qr_scanner_view.dart:403:35 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - Features\qr\qr_scanner_view.dart:406:37 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - Features\qr\qr_scanner_view.dart:491:24 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - Features\qr\qr_scanner_view.dart:493:43 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - Features\shared\sticky_action_buttons.dart:4:8 - The import of 'dart:ui' is unnecessary because all of the used elements are also provided by the import of 'package:flutter/material.dart'. Try removing the import directive. - unnecessary_import
+   info - Features\shared\sticky_action_buttons.dart:168:22 - Use a 'SizedBox' to add whitespace to a layout. Try using a 'SizedBox' rather than a 'Container'. - sized_box_for_whitespace
+   info - Features\solo\cubit\solo_dashboard_cubit.dart:21:5 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - Features\solo\cubit\solo_dashboard_cubit.dart:23:7 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - Features\solo\cubit\solo_dashboard_cubit.dart:30:5 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - Features\solo\cubit\solo_dashboard_cubit.dart:54:7 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - Features\solo\cubit\solo_dashboard_cubit.dart:61:7 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - Features\solo\cubit\solo_dashboard_cubit.dart:73:7 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - Features\solo\cubit\solo_dashboard_cubit.dart:75:9 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - Features\solo\cubit\solo_dashboard_cubit.dart:83:7 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - Features\solo\cubit\solo_dashboard_cubit.dart:91:7 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - Features\solo\cubit\solo_dashboard_cubit.dart:92:7 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - Features\solo\cubit\solo_dashboard_cubit.dart:188:7 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - Features\solo\cubit\solo_dashboard_cubit.dart:193:9 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - Features\solo\cubit\solo_dashboard_cubit.dart:262:7 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - Features\solo\solo_dashboard_view.dart:234:19 - Statements in an if should be enclosed in a block. Try wrapping the statement in a block. - curly_braces_in_flow_control_structures
+   info - Features\solo\solo_dashboard_view.dart:449:31 - Statements in an if should be enclosed in a block. Try wrapping the statement in a block. - curly_braces_in_flow_control_structures
+   info - Features\solo\solo_dashboard_view.dart:486:19 - Statements in an if should be enclosed in a block. Try wrapping the statement in a block. - curly_braces_in_flow_control_structures
+   info - Features\solo\widgets\solo_habit_card.dart:338:13 - Statements in an if should be enclosed in a block. Try wrapping the statement in a block. - curly_braces_in_flow_control_structures
+   info - Features\solo\widgets\solo_habit_card.dart:577:7 - Statements in an if should be enclosed in a block. Try wrapping the statement in a block. - curly_braces_in_flow_control_structures
+   info - Features\spaces\screens\premium_upgrade_screen.dart:2:8 - The import of 'dart:ui' is unnecessary because all of the used elements are also provided by the import of 'package:flutter/material.dart'. Try removing the import directive. - unnecessary_import
+   info - Features\spaces\screens\premium_upgrade_screen.dart:30:50 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - Features\spaces\screens\premium_upgrade_screen.dart:107:54 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - Features\spaces\screens\premium_upgrade_screen.dart:204:33 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - Features\spaces\screens\premium_upgrade_screen.dart:215:46 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - Features\spaces\screens\space_tabs\history_tab.dart:52:58 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - Features\spaces\screens\space_tabs\history_tab.dart:150:33 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - Features\spaces\screens\space_tabs\history_tab.dart:163:38 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - Features\spaces\screens\space_tabs\history_tab.dart:164:37 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - Features\spaces\screens\space_tabs\messages_tab.dart:137:37 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - Features\spaces\screens\space_tabs\streaks_tab.dart:50:39 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - Features\spaces\screens\space_tabs\streaks_tab.dart:120:22 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - Features\spaces\screens\space_tabs\streaks_tab.dart:140:28 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - Features\spaces\screens\space_tabs\streaks_tab.dart:157:26 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - Features\spaces\widgets\add_member_dialog.dart:36:35 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - Features\spaces\widgets\add_member_dialog.dart:39:37 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - Features\spaces\widgets\add_member_dialog.dart:70:52 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - Features\spaces\widgets\add_member_dialog.dart:73:54 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - Features\spaces\widgets\add_member_dialog.dart:231:30 - Don't use 'BuildContext's across async gaps. Try rewriting the code to not use the 'BuildContext', or guard the use with a 'mounted' check. - use_build_context_synchronously
+   info - Features\spaces\widgets\advanced_space_habit_card.dart:147:30 - 'red' is deprecated and shouldn't be used. Use (*.r * 255.0).round().clamp(0, 255). Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - Features\spaces\widgets\advanced_space_habit_card.dart:148:30 - 'green' is deprecated and shouldn't be used. Use (*.g * 255.0).round().clamp(0, 255). Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - Features\spaces\widgets\advanced_space_habit_card.dart:149:30 - 'blue' is deprecated and shouldn't be used. Use (*.b * 255.0).round().clamp(0, 255). Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - Features\spaces\widgets\advanced_space_habit_card.dart:171:43 - 'red' is deprecated and shouldn't be used. Use (*.r * 255.0).round().clamp(0, 255). Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - Features\spaces\widgets\advanced_space_habit_card.dart:172:43 - 'green' is deprecated and shouldn't be used. Use (*.g * 255.0).round().clamp(0, 255). Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - Features\spaces\widgets\advanced_space_habit_card.dart:173:43 - 'blue' is deprecated and shouldn't be used. Use (*.b * 255.0).round().clamp(0, 255). Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - Features\spaces\widgets\advanced_space_habit_card.dart:202:51 - 'red' is deprecated and shouldn't be used. Use (*.r * 255.0).round().clamp(0, 255). Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - Features\spaces\widgets\advanced_space_habit_card.dart:203:51 - 'green' is deprecated and shouldn't be used. Use (*.g * 255.0).round().clamp(0, 255). Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - Features\spaces\widgets\advanced_space_habit_card.dart:204:51 - 'blue' is deprecated and shouldn't be used. Use (*.b * 255.0).round().clamp(0, 255). Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - Features\spaces\widgets\advanced_space_habit_card.dart:210:53 - 'red' is deprecated and shouldn't be used. Use (*.r * 255.0).round().clamp(0, 255). Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - Features\spaces\widgets\advanced_space_habit_card.dart:211:53 - 'green' is deprecated and shouldn't be used. Use (*.g * 255.0).round().clamp(0, 255). Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - Features\spaces\widgets\advanced_space_habit_card.dart:212:53 - 'blue' is deprecated and shouldn't be used. Use (*.b * 255.0).round().clamp(0, 255). Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - Features\spaces\widgets\advanced_space_habit_card.dart:257:56 - 'red' is deprecated and shouldn't be used. Use (*.r * 255.0).round().clamp(0, 255). Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - Features\spaces\widgets\advanced_space_habit_card.dart:258:56 - 'green' is deprecated and shouldn't be used. Use (*.g * 255.0).round().clamp(0, 255). Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - Features\spaces\widgets\advanced_space_habit_card.dart:259:56 - 'blue' is deprecated and shouldn't be used. Use (*.b * 255.0).round().clamp(0, 255). Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - Features\spaces\widgets\advanced_space_habit_card.dart:372:36 - 'red' is deprecated and shouldn't be used. Use (*.r * 255.0).round().clamp(0, 255). Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - Features\spaces\widgets\advanced_space_habit_card.dart:373:36 - 'green' is deprecated and shouldn't be used. Use (*.g * 255.0).round().clamp(0, 255). Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - Features\spaces\widgets\advanced_space_habit_card.dart:374:36 - 'blue' is deprecated and shouldn't be used. Use (*.b * 255.0).round().clamp(0, 255). Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - Features\spaces\widgets\advanced_space_habit_card.dart:382:34 - 'red' is deprecated and shouldn't be used. Use (*.r * 255.0).round().clamp(0, 255). Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - Features\spaces\widgets\advanced_space_habit_card.dart:383:34 - 'green' is deprecated and shouldn't be used. Use (*.g * 255.0).round().clamp(0, 255). Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - Features\spaces\widgets\advanced_space_habit_card.dart:384:34 - 'blue' is deprecated and shouldn't be used. Use (*.b * 255.0).round().clamp(0, 255). Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - Features\spaces\widgets\advanced_space_habit_card.dart:394:37 - 'red' is deprecated and shouldn't be used. Use (*.r * 255.0).round().clamp(0, 255). Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - Features\spaces\widgets\advanced_space_habit_card.dart:395:37 - 'green' is deprecated and shouldn't be used. Use (*.g * 255.0).round().clamp(0, 255). Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - Features\spaces\widgets\advanced_space_habit_card.dart:396:37 - 'blue' is deprecated and shouldn't be used. Use (*.b * 255.0).round().clamp(0, 255). Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - Features\spaces\widgets\advanced_space_habit_card.dart:462:39 - 'red' is deprecated and shouldn't be used. Use (*.r * 255.0).round().clamp(0, 255). Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - Features\spaces\widgets\advanced_space_habit_card.dart:462:50 - 'green' is deprecated and shouldn't be used. Use (*.g * 255.0).round().clamp(0, 255). Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - Features\spaces\widgets\advanced_space_habit_card.dart:462:63 - 'blue' is deprecated and shouldn't be used. Use (*.b * 255.0).round().clamp(0, 255). Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - Features\spaces\widgets\advanced_space_habit_card.dart:517:45 - 'red' is deprecated and shouldn't be used. Use (*.r * 255.0).round().clamp(0, 255). Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - Features\spaces\widgets\advanced_space_habit_card.dart:518:45 - 'green' is deprecated and shouldn't be used. Use (*.g * 255.0).round().clamp(0, 255). Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - Features\spaces\widgets\advanced_space_habit_card.dart:519:45 - 'blue' is deprecated and shouldn't be used. Use (*.b * 255.0).round().clamp(0, 255). Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - Features\spaces\widgets\advanced_space_habit_card.dart:624:44 - 'red' is deprecated and shouldn't be used. Use (*.r * 255.0).round().clamp(0, 255). Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - Features\spaces\widgets\advanced_space_habit_card.dart:625:44 - 'green' is deprecated and shouldn't be used. Use (*.g * 255.0).round().clamp(0, 255). Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - Features\spaces\widgets\advanced_space_habit_card.dart:626:44 - 'blue' is deprecated and shouldn't be used. Use (*.b * 255.0).round().clamp(0, 255). Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - Features\spaces\widgets\advanced_space_habit_card.dart:635:72 - 'red' is deprecated and shouldn't be used. Use (*.r * 255.0).round().clamp(0, 255). Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - Features\spaces\widgets\advanced_space_habit_card.dart:636:72 - 'green' is deprecated and shouldn't be used. Use (*.g * 255.0).round().clamp(0, 255). Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - Features\spaces\widgets\advanced_space_habit_card.dart:637:72 - 'blue' is deprecated and shouldn't be used. Use (*.b * 255.0).round().clamp(0, 255). Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - Features\spaces\widgets\advanced_space_habit_card.dart:655:29 - 'red' is deprecated and shouldn't be used. Use (*.r * 255.0).round().clamp(0, 255). Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - Features\spaces\widgets\advanced_space_habit_card.dart:656:29 - 'green' is deprecated and shouldn't be used. Use (*.g * 255.0).round().clamp(0, 255). Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - Features\spaces\widgets\advanced_space_habit_card.dart:657:29 - 'blue' is deprecated and shouldn't be used. Use (*.b * 255.0).round().clamp(0, 255). Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - Features\spaces\widgets\advanced_space_habit_card.dart:736:36 - 'red' is deprecated and shouldn't be used. Use (*.r * 255.0).round().clamp(0, 255). Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - Features\spaces\widgets\advanced_space_habit_card.dart:737:36 - 'green' is deprecated and shouldn't be used. Use (*.g * 255.0).round().clamp(0, 255). Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - Features\spaces\widgets\advanced_space_habit_card.dart:738:36 - 'blue' is deprecated and shouldn't be used. Use (*.b * 255.0).round().clamp(0, 255). Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - Features\spaces\widgets\create_space_dialog.dart:4:8 - The import of 'dart:ui' is unnecessary because all of the used elements are also provided by the import of 'package:flutter/material.dart'. Try removing the import directive. - unnecessary_import
+   info - Features\spaces\widgets\create_space_dialog.dart:80:35 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - Features\spaces\widgets\create_space_dialog.dart:430:28 - Don't use 'BuildContext's across async gaps. Try rewriting the code to not use the 'BuildContext', or guard the use with a 'mounted' check. - use_build_context_synchronously
+   info - Features\spaces\widgets\create_space_dialog.dart:432:30 - Don't use 'BuildContext's across async gaps. Try rewriting the code to not use the 'BuildContext', or guard the use with a 'mounted' check. - use_build_context_synchronously
+   info - Features\spaces\widgets\join_space_popup.dart:8:8 - The imported package 'url_launcher' isn't a dependency of the importing package. Try adding a dependency for 'url_launcher' in the 'pubspec.yaml' file. - depend_on_referenced_packages
+   info - Features\spaces\widgets\join_space_popup.dart:9:8 - The imported package 'path_provider' isn't a dependency of the importing package. Try adding a dependency for 'path_provider' in the 'pubspec.yaml' file. - depend_on_referenced_packages
+   info - Features\spaces\widgets\join_space_popup.dart:64:54 - Instances of 'Color' should be created using an 8-digit hexadecimal integer (such as '0xFFFFFFFF'). - use_full_hex_values_for_flutter_colors
+   info - Features\spaces\widgets\join_space_popup.dart:262:33 - Don't use 'BuildContext's across async gaps. Try rewriting the code to not use the 'BuildContext', or guard the use with a 'mounted' check. - use_build_context_synchronously
+   info - Features\spaces\widgets\join_space_popup.dart:264:33 - Don't use 'BuildContext's across async gaps. Try rewriting the code to not use the 'BuildContext', or guard the use with a 'mounted' check. - use_build_context_synchronously
+   info - Features\spaces\widgets\premium_required_dialog.dart:22:35 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - Features\spaces\widgets\premium_required_dialog.dart:25:37 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - Features\spaces\widgets\premium_required_dialog.dart:36:52 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - core\theme\habit_emojis.dart:1:1 - Dangling library doc comment. Add a 'library' directive after the library comment. - dangling_library_doc_comments
+   info - screens\habit_success_cinematic_screen.dart:251:7 - Statements in an if should be enclosed in a block. Try wrapping the statement in a block. - curly_braces_in_flow_control_structures
+   info - screens\habit_success_cinematic_screen.dart:255:7 - Statements in an if should be enclosed in a block. Try wrapping the statement in a block. - curly_braces_in_flow_control_structures
+   info - scripts\convert_svg_to_png.dart:14:3 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - scripts\convert_svg_to_png.dart:27:5 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - scripts\convert_svg_to_png.dart:36:5 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - scripts\convert_svg_to_png.dart:38:5 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - scripts\convert_svg_to_png.dart:42:5 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - scripts\convert_svg_to_png.dart:54:3 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - services\auth_service.dart:13:7 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - services\auth_service.dart:24:9 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - services\auth_service.dart:27:9 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - services\auth_service.dart:33:7 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - services\auth_service.dart:36:9 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - services\auth_service.dart:40:7 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - services\auth_service.dart:45:7 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - services\auth_service.dart:46:7 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - services\auth_service.dart:54:7 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - services\auth_service.dart:63:9 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - services\auth_service.dart:67:7 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - services\auth_service.dart:70:7 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - services\profile_service.dart:22:9 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - services\profile_service.dart:32:9 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - services\profile_service.dart:34:11 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - services\profile_service.dart:37:9 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - services\profile_service.dart:49:9 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - services\profile_service.dart:54:11 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - services\profile_service.dart:89:7 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - services\profile_service.dart:118:7 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - services\profile_service.dart:126:7 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - services\profile_service.dart:133:7 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - services\profile_service.dart:136:7 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - services\profile_service.dart:139:7 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - services\profile_service.dart:149:9 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - services\profile_service.dart:161:7 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - services\profile_service.dart:164:7 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - services\profile_service.dart:171:7 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - services\profile_service.dart:187:7 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - services\profile_service.dart:206:7 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - services\profile_service.dart:214:7 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - services\profile_service.dart:228:9 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - services\profile_service.dart:232:7 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - services\profile_service.dart:235:7 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - services\profile_service.dart:251:5 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - services\shape_service.dart:23:7 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - services\shape_service.dart:32:7 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - services\shape_service.dart:37:7 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - services\shape_service.dart:52:7 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - services\shape_service.dart:56:7 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - services\space_service.dart:18:7 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - services\space_service.dart:30:7 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - services\space_service.dart:42:7 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - services\space_service.dart:46:7 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - services\space_service.dart:54:7 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - services\space_service.dart:66:7 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - services\space_service.dart:69:7 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - services\space_service.dart:86:7 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - services\space_service.dart:102:7 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - services\space_service.dart:104:7 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - services\space_service.dart:121:7 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - services\space_service.dart:123:7 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - services\space_service.dart:133:7 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - services\space_service.dart:135:7 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - services\space_service.dart:146:7 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - services\space_service.dart:158:7 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - services\space_service.dart:165:7 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - services\space_service.dart:185:7 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - services\space_service.dart:201:7 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - services\space_service.dart:214:7 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - services\space_service.dart:223:7 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - services\space_service.dart:243:11 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - services\space_service.dart:256:7 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - services\space_service.dart:262:7 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - services\space_service.dart:273:7 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - services\space_service.dart:289:11 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - services\space_service.dart:292:11 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - services\space_service.dart:300:11 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - services\space_service.dart:310:7 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - services\space_service.dart:313:7 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - services\space_service.dart:327:7 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - services\space_service.dart:332:7 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - services\space_service.dart:334:7 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - services\space_service.dart:342:7 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - services\space_service.dart:345:7 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - services\space_service.dart:347:7 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - services\space_service.dart:359:7 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - services\space_service.dart:366:7 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - services\space_service.dart:369:7 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+
+246 issues found.

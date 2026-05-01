@@ -1,0 +1,4 @@
+targets:
+  $default:
+    builders:
+      # flutter_gen configuration removed - now handled by pubspec_generator.yaml

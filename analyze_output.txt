@@ -1,0 +1,28 @@
+Analyzing brand_challenge_screen.dart...                        
+
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\spaces\screens\brand_challenge_screen.dart:670:44 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\spaces\screens\brand_challenge_screen.dart:682:38 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\spaces\screens\brand_challenge_screen.dart:698:41 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\spaces\screens\brand_challenge_screen.dart:700:60 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\spaces\screens\brand_challenge_screen.dart:759:47 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\spaces\screens\brand_challenge_screen.dart:852:45 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\spaces\screens\brand_challenge_screen.dart:899:42 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\spaces\screens\brand_challenge_screen.dart:911:31 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\spaces\screens\brand_challenge_screen.dart:954:35 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\spaces\screens\brand_challenge_screen.dart:1044:61 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\spaces\screens\brand_challenge_screen.dart:1059:34 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\spaces\screens\brand_challenge_screen.dart:1060:51 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\spaces\screens\brand_challenge_screen.dart:1123:47 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\spaces\screens\brand_challenge_screen.dart:1162:35 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\spaces\screens\brand_challenge_screen.dart:1163:54 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\spaces\screens\brand_challenge_screen.dart:1498:45 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\spaces\screens\brand_challenge_screen.dart:1519:60 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\spaces\screens\brand_challenge_screen.dart:1521:46 - deprecated_member_use
+warning - The value of the local variable 'accent' isn't used - lib\features\spaces\screens\brand_challenge_screen.dart:1805:11 - unused_local_variable
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\spaces\screens\brand_challenge_screen.dart:1906:35 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\spaces\screens\brand_challenge_screen.dart:1907:54 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\spaces\screens\brand_challenge_screen.dart:1944:28 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\spaces\screens\brand_challenge_screen.dart:1945:34 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\spaces\screens\brand_challenge_screen.dart:1948:51 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\spaces\screens\brand_challenge_screen.dart:1956:51 - deprecated_member_use
+

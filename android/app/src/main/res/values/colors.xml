@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Match your Flutter splash screen background color (black) -->
+    <color name="splashBackground">#000000</color>
+    <!-- Launcher icon background color (required by adaptive icon) -->
+    <color name="ic_launcher_background">#000000</color>
+    <!-- Firebase Notification Icon Color (Habitz brand color) -->
+    <color name="notification_color">#6C63FF</color>
+
+    <!-- ── Home Screen Widget Colors ── -->
+    <color name="widget_bg_dark">#1A1A2E</color>
+    <color name="widget_accent_purple">#5C4AE4</color>
+    <color name="widget_text_primary">#FFFFFF</color>
+    <color name="widget_text_secondary">#8E8E9A</color>
+    <color name="widget_streak_orange">#D85A30</color>
+    <color name="widget_stat_bg">#252545</color>
+</resources>
